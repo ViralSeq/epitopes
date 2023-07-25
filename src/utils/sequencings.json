@@ -1,0 +1,5774 @@
+[
+  {
+    "id": 1,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "A------"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-----TS-TT-V--"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-----TT--VQD-L--"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-----S-H-..------YAT-N--DI-K-Y-T-N"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "------------D--"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "------V---------"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "----N----"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "--D---G--"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "participantId": "00231",
+    "specimenId": "PH337",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-T-------"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----KN--GT-T--"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------T----D-MK-"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----G-S-..------YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "A--------S--D--"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------VL--------"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------HI-"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "participantId": "00250",
+    "specimenId": "PH232",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----KN--GT-T--"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "------T----D-MK-"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "-----G-S-..------YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "A--------S--D--"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "------VL--------"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "------HI-"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "participantId": "00250",
+    "specimenId": "PH280",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "----KN--GT-T--"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "------T----D-MK-"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-----G-S-..------YAT-D--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-S-..------YAT-D--DIK-------"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "A--------S--D--"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "------VL--------"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "------HI-"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "participantId": "00250",
+    "specimenId": "PH325",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--------F"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "----L--"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----EN-H-N-T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----NG-NN-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----NDANN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----DTAYN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ENHH-N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----ET-NN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----NE-NN-T--"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-----VT-NM-D----"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "--IK-G-P-H..-----Y-TKQ--DI--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "--I--G-P-H..-----Y-TKQ--DI--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "--V--G-P-H..--G--Y-TR---DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--IK-G-P-H..--K--Y-TKQ--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--I--G-P-H..-----Y-TRQ--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "A-----------D--"
+      },
+      {
+        "count": 3,
+        "highlighter": "A-------------S"
+      },
+      {
+        "count": 1,
+        "highlighter": "A----T--------S"
+      },
+      {
+        "count": 1,
+        "highlighter": "A----TG-------S"
+      },
+      {
+        "count": 1,
+        "highlighter": "A-----------S-S"
+      },
+      {
+        "count": 1,
+        "highlighter": "AF----N-----D-S"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-L--------------"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "----T----"
+      },
+      {
+        "count": 5,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----V----"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "--D---G--"
+      },
+      {
+        "count": 5,
+        "highlighter": "--D---E--"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---EV-"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "participantId": "00531",
+    "specimenId": "PH329",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "--S--V-"
+      },
+      {
+        "count": 4,
+        "highlighter": "--SN-V-"
+      },
+      {
+        "count": 3,
+        "highlighter": "---N-V-"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-I---V-"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 32,
+        "highlighter": "-------"
+      },
+      {
+        "count": 1,
+        "highlighter": "A------"
+      },
+      {
+        "count": 1,
+        "highlighter": "A---L--"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----HT-ST--V--"
+      },
+      {
+        "count": 6,
+        "highlighter": "----HT-ST-----"
+      },
+      {
+        "count": 4,
+        "highlighter": "----IT-STH-V--"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----T-STP-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----T-CTP-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----T-STP----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----TDR-AT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----DTESKP----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ANE-KT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----DNE-KT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----NMTAN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----T-ST--V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "---N.--ETT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S.--ETT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----SD-KTT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----S---KT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----S---TT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S.NET-P-V--"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "------T---KD-M--"
+      },
+      {
+        "count": 9,
+        "highlighter": "------T-N-KD-M--"
+      },
+      {
+        "count": 6,
+        "highlighter": "------T---KD----"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T----D-M-R"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T----D---R"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T----D--R-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-G-KD-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T----D-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-N-KDRM--"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "-----G-H-..------FATDI---I------VN"
+      },
+      {
+        "count": 5,
+        "highlighter": "-----S-H-..------YATDI---I------V-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----S-H-..------Y-TEI--DI------L-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----G-H-..------YATDI---I------V-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----G-H-..------YATEI--DI-K------"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----G-H-..------YATDI---I------VN"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-H-..------Y-TEI--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------YATDV---I------VN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-Q-..------Y-TEI---I-K------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------Y-TEI---I--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------YATDV---I-------N"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----SVH-..-----LY-TEI--DI-K-Y--VN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------YATNI---I------V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-H-..------FATDV---I-----GVN"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "------------D--"
+      },
+      {
+        "count": 9,
+        "highlighter": "------------D-S"
+      },
+      {
+        "count": 2,
+        "highlighter": "------N-----D--"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 33,
+        "highlighter": "----------------"
+      },
+      {
+        "count": 1,
+        "highlighter": "---M------------"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "----T----"
+      },
+      {
+        "count": 5,
+        "highlighter": "----T---S"
+      },
+      {
+        "count": 3,
+        "highlighter": "----V----"
+      },
+      {
+        "count": 2,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----N----"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 26,
+        "highlighter": "--D---G--"
+      },
+      {
+        "count": 6,
+        "highlighter": "--D------"
+      },
+      {
+        "count": 2,
+        "highlighter": "--D---D--"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "participantId": "00546",
+    "specimenId": "PH164",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "---K----I"
+      },
+      {
+        "count": 14,
+        "highlighter": "--------I"
+      },
+      {
+        "count": 2,
+        "highlighter": "---T----I"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S----I"
+      },
+      {
+        "count": 1,
+        "highlighter": "---I----M"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "--S--V-"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "--SN-V-"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-------"
+      },
+      {
+        "count": 1,
+        "highlighter": "A------"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 3,
+        "highlighter": "----SD-KTT-V--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----R-HT-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----R-ITH-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "--------TP----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----R--TP-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----NTAVT----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----NTTAT----"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------T---KD-M--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T---KD----"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-N-KD-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-G-KD-M--"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-----G-H-..------YATEI--DI-K------"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-H-..------YATNI---I------V-"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-H-..------Y-TEI--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-H-..------YATDI---I------VN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------YATDV---I------VN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------YATDI---I------V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------Y-TEI--DI------L-"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "------------D--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------------D-S"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 10,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----T----"
+      },
+      {
+        "count": 2,
+        "highlighter": "----T---S"
+      },
+      {
+        "count": 1,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----I----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----V----"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "--D---G--"
+      },
+      {
+        "count": 3,
+        "highlighter": "--D------"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "participantId": "00546",
+    "specimenId": "PH340",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "--------I"
+      },
+      {
+        "count": 3,
+        "highlighter": "---K----I"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "-----NS-TT----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----DSSTT----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----D-DTT----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----E-STT----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-STT----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----DNS-TT----"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "------T---K--P--"
+      },
+      {
+        "count": 5,
+        "highlighter": "------T---KE-P--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-D-K--P--"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "-----G-HM..---K-YY-TEI--DI--------"
+      },
+      {
+        "count": 6,
+        "highlighter": "-----GLHM..---K-YY-TEI--DI---Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-HM..---K-YY-TEI---I--------"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---N--------D--"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-LTL--V---------"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "----S----"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "--D---G--"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "participantId": "00674",
+    "specimenId": "PH354",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "-----NT-DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "------T-R-GN-I--"
+      },
+      {
+        "count": 4,
+        "highlighter": "------T-R-GK-I--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-R--N-I--"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "-----S-T-..------YAT-E---I------L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-T-..------YAT-E---I------LN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-T-..-----LYAT-E---I------L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-T-..------YAT-E---I--T---L-"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "A-----N-----D--"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "------V---------"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "--D---G--"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "participantId": "00720",
+    "specimenId": "PH259",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "-T-------"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "---N---"
+      },
+      {
+        "count": 1,
+        "highlighter": "D--N---"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "-----NT-DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "------T-R-GN-I--"
+      },
+      {
+        "count": 6,
+        "highlighter": "------T-R-GK-I--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-R--N-I--"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "-----S-T-..------YAT-E---I------L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-T-..------YAT-E---I--T---L-"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "A-----N-----D--"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "------V---------"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "--D---G--"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "participantId": "00720",
+    "specimenId": "PH367",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "-T-------"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "-----T-DTN----"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "------T-NVQD-T--"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "-----G-N-..------YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "A-----------D--"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "GA-L------------"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "----KT---"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "--D---EQ-"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "participantId": "00728",
+    "specimenId": "PH254",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "-----T-DTN----"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "------T-NVQD-T--"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "-----G-N-..------YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "A-----------D--"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "GA-L------------"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 24,
+        "highlighter": "----KT---"
+      },
+      {
+        "count": 1,
+        "highlighter": "---DKT---"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "--D---EQ-"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "participantId": "00728",
+    "specimenId": "PH338",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 25,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "---N---"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-----T-DTN----"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "------T-NVQD-T--"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-----G-N-..------YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "A-----------D--"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "GA-L------------"
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "----KT---"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "--D---EQ-"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "participantId": "00728",
+    "specimenId": "PH392",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "--SN---"
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "T------"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-----G--DT-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----R--DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-----VT-Q--D-M--"
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-----S-H-A..-----YAT-D--DI-K------"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "------------S--"
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "participantId": "00749",
+    "specimenId": "PH255",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-------I-"
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "--SN---"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "T------"
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-----G--DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-----VT-Q--D-M--"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-----S-H-A..-----YAT-D--DI-K------"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "------------S--"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "----------------"
+      },
+      {
+        "count": 2,
+        "highlighter": "-L--------------"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "----T----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----S----"
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "participantId": "00749",
+    "specimenId": "PH258",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-------I-"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "--SN---"
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "T------"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----G--DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----VT-Q--D-M--"
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----S-H-A..-----YAT-D--DI-K------"
+      }
+    ]
+  },
+  {
+    "id": 156,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------------S--"
+      }
+    ]
+  },
+  {
+    "id": 157,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "participantId": "00749",
+    "specimenId": "PH386",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-------I-"
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "--SN---"
+      },
+      {
+        "count": 2,
+        "highlighter": "-LSN---"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "T------"
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-----G--DT-T--"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "-----VT-Q--D-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----VT-Q--D----"
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-----S-H-A..-----YAT-D--DI-K------"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "------------S--"
+      }
+    ]
+  },
+  {
+    "id": 167,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 168,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 169,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 170,
+    "participantId": "00749",
+    "specimenId": "PH428",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-------I-"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 172,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 173,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----KD-NT----"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----VT-GL-D--K-"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----G-H-..------YATDI--DI------L-"
+      }
+    ]
+  },
+  {
+    "id": 176,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "-----G------D-S"
+      },
+      {
+        "count": 1,
+        "highlighter": "K----G------D-S"
+      }
+    ]
+  },
+  {
+    "id": 177,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-I-T--M---------"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "----S----"
+      }
+    ]
+  },
+  {
+    "id": 179,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "--S------"
+      }
+    ]
+  },
+  {
+    "id": 180,
+    "participantId": "00773",
+    "specimenId": "PH356",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 181,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-----RTHNN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----MT--N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----MT..N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----RTHQN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----RTH-N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----RT--A-T--"
+      }
+    ]
+  },
+  {
+    "id": 184,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 3,
+        "highlighter": "----------KDRY--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------P-N-NDRY--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------N-N-KDRW--"
+      },
+      {
+        "count": 1,
+        "highlighter": "--------N-KDRY--"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-----S-PM..-----LYAT-E--DI-H-Y--L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-P-..-----LYAT-E--DI-H-Y--L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-PM..-----LYAT-E--DI-H-Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-PM..-----LYAT-E--DI---Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-PM..-----LYAT-E--DI---Y--L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-P-..-----LYAT-E--DI---F----"
+      }
+    ]
+  },
+  {
+    "id": 186,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "A--------S--D--"
+      }
+    ]
+  },
+  {
+    "id": 187,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "------V---------"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 189,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 4,
+        "highlighter": "--D---N--"
+      },
+      {
+        "count": 3,
+        "highlighter": "--D------"
+      }
+    ]
+  },
+  {
+    "id": 190,
+    "participantId": "00800",
+    "specimenId": "PH285",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 4,
+        "highlighter": "-L-------"
+      },
+      {
+        "count": 3,
+        "highlighter": "-V-------"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "--S--T-"
+      }
+    ]
+  },
+  {
+    "id": 192,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "P---Q--"
+      }
+    ]
+  },
+  {
+    "id": 193,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "----K--SST----"
+      }
+    ]
+  },
+  {
+    "id": 194,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "------T-NMQ.-GR-"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----VT-NMQ.-GR-"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "----NG-HL..---KV-YAT-A--DI--------"
+      },
+      {
+        "count": 8,
+        "highlighter": "----SS-HL..---SV-YAT-A--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 196,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "---Q--N-----D-S"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "---L------------"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "--D---NE-"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "participantId": "00834",
+    "specimenId": "PH298",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "--S--T-"
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "P---Q--"
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "----K--SST----"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "------T-NMQ.-GR-"
+      },
+      {
+        "count": 5,
+        "highlighter": "-----VT-NMQ.-GR-"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "----NG-HL..---KV-YAT-A--DI--------"
+      },
+      {
+        "count": 4,
+        "highlighter": "----SS-HL..---SV-YAT-A--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-HL..---SV-YAT-A--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "---Q--N-----D-S"
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "---L------------"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "--D---NE-"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "participantId": "00834",
+    "specimenId": "PH401",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "--S----"
+      }
+    ]
+  },
+  {
+    "id": 212,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "------V"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "-----I-DDN-T--"
+      }
+    ]
+  },
+  {
+    "id": 214,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "-----VT-N--D-I--"
+      }
+    ]
+  },
+  {
+    "id": 215,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "----RG-H-..---S-IF-T-D---I--------"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "A--Q--------S-S"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 218,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "-------N-"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "--D---G--"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "participantId": "00848",
+    "specimenId": "PH295",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "--S----"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-----H--SN-T--"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-----V-KDV-D-MK-"
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-----S-H-..A-----YAT-D---I-K------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..A-----YAT-D---I-K-Y----"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "------N--------"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-M-L------------"
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "----N----"
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "participantId": "00862",
+    "specimenId": "PH302",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "---A-H-"
+      },
+      {
+        "count": 7,
+        "highlighter": "---E-H-"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----T-"
+      },
+      {
+        "count": 1,
+        "highlighter": "--SA-H-"
+      },
+      {
+        "count": 1,
+        "highlighter": "--SE-H-"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "-------"
+      },
+      {
+        "count": 3,
+        "highlighter": "P------"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "------SDNT-T--"
+      },
+      {
+        "count": 6,
+        "highlighter": "----KNTTTT----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----NT..N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----DT..N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----D..TN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----KNTTAT----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----D-IDNN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----TT-NT-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-------TTN-T--"
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "------T-DTGD-L--"
+      },
+      {
+        "count": 5,
+        "highlighter": "------T-D-GD-L--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-D-GD-L-N"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T----D-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-IR-D-M--"
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----RS-HL..-----LY-TDI--DI-K-Y-TL-"
+      },
+      {
+        "count": 3,
+        "highlighter": "----RS-HL..---K-LY-TDI--DI-K-Y----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-HL..---K-LY-TEI---I--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-HL..---K-LY-TEI---I---Y----"
+      },
+      {
+        "count": 2,
+        "highlighter": "----RS-HL..---K-LY-TDI---I--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-HL..---K-LY-TEI---I------V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-HL..-----LY-TDI--DI-K-Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-HL..-----LY-TDI--DI-K-Y-TLN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-HL..---K-LY-TEI--DI---Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-H-..------Y-TEI--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------Y-TEI--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "------------D--"
+      },
+      {
+        "count": 4,
+        "highlighter": "------------D-S"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "---L----I-------"
+      },
+      {
+        "count": 4,
+        "highlighter": "------V---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "---------"
+      },
+      {
+        "count": 4,
+        "highlighter": "-------N-"
+      },
+      {
+        "count": 3,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "--S---G--"
+      },
+      {
+        "count": 5,
+        "highlighter": "--S---D--"
+      },
+      {
+        "count": 2,
+        "highlighter": "--S------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--S---GI-"
+      },
+      {
+        "count": 1,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "participantId": "00870",
+    "specimenId": "PH306",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 16,
+        "highlighter": "-I-------"
+      },
+      {
+        "count": 3,
+        "highlighter": "-I-----M-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-T-------"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----T-"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 5,
+        "highlighter": "----L--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 3,
+        "highlighter": "-----IT-NT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----NT-TT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-AT-V--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----TT-DT-V--"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----VT-H--D----"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-----G---..------YATER--DI-A----L-"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----G-H-..------YATER--DI-A----L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G---..------YATER--DI-A------"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S-G---..------YATER--DI-A----L-"
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 4,
+        "highlighter": "------------D--"
+      },
+      {
+        "count": 2,
+        "highlighter": "G-----------D--"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----M-LV-------"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----S----"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "--D---GI-"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "participantId": "00879",
+    "specimenId": "PH312",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 4,
+        "highlighter": "---K-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "---E-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "--SN---"
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "----LN-TGN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----LNSTGN-T--"
+      }
+    ]
+  },
+  {
+    "id": 254,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "------T-E--D-QK-"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "-----G-HF..---S--Y-T-D--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-HF..---N--Y-T-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "A-----N-----D-S"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "----V----"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 1,
+        "highlighter": "--D------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---R--"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "participantId": "00883",
+    "specimenId": "PH297",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 2,
+        "highlighter": "-T-----M-"
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-I-N---"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "T---L--"
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "-----T-TKK-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----N-TKK-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----A-TKK-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----DT-TKK-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----TSTKK-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----T-T-K-T--"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "------T-E--D-HKT"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "----ES---..---QT-YAT-D--DI-K----V-"
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "A----D--L----L-"
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "---L--F------T--"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-V----QQ-"
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "participantId": "00926",
+    "specimenId": "PH331",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-R-------"
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "--SN---"
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----AT-NT-T--"
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----VT-N--D-IR-"
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "-----S-H-..------YAT-D--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..---K--YAT-D--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "------------D--"
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "--D---QE-"
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "participantId": "00929",
+    "specimenId": "PH361",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "--SN---"
+      },
+      {
+        "count": 1,
+        "highlighter": "--S----"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "-------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----L--"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 3,
+        "highlighter": "-----RTSQN-T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "----H-T..N-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----RT-QN-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----..-QN-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----RT-Q--T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----RT.QN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----H-T-Q--T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----KT.QN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----GT-QN-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----RT.-N-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----.--QN-T--"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "-----VT-E--D----"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----VT-E--D--K-"
+      },
+      {
+        "count": 3,
+        "highlighter": "-----VT-E-----K-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----VT-E--D-IK-"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "-----G-HM..---KT-YAT-D--DI------V-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----G-H-..----T-YAT-D---I------V-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----G-H-..----T-YAT-D--DI------V-"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----G-HM..----T-YAT-D---I------V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-HM..---KT-YAT-D---I------V-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-HM..----T-YAT-D--DI------V-"
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "A----D---S--D--"
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "---L--M---------"
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "----S----"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "--G---NI-"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---NI-"
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "participantId": "00930",
+    "specimenId": "PH341",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 22,
+        "highlighter": "-LS--T-"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 22,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----VD--G--T--"
+      },
+      {
+        "count": 4,
+        "highlighter": "----VD-SG--T--"
+      },
+      {
+        "count": 4,
+        "highlighter": "----VDS-G--T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "------M----T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "----VD-DG--T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----D-M-G--T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----VD-S---T--"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "-----------DRIK-"
+      },
+      {
+        "count": 4,
+        "highlighter": "---------T-DRIK-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----------D-IK-"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "----RS-A-..-----RF-TR----I--------"
+      },
+      {
+        "count": 9,
+        "highlighter": "----RS-A-..-----RFATR----I--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "----RS-S-..------F-T-QV-DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-A-..-----RFATRR---I--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-A-..-----RF-TR---DI--------"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-----SN--T--D--"
+      },
+      {
+        "count": 8,
+        "highlighter": "-----SN-----D--"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "GI----MV--------"
+      },
+      {
+        "count": 6,
+        "highlighter": "GI-----V--------"
+      },
+      {
+        "count": 4,
+        "highlighter": "G------V--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "G-----MV--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "GI----MI--------"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "-------RD"
+      },
+      {
+        "count": 5,
+        "highlighter": "-------NS"
+      },
+      {
+        "count": 2,
+        "highlighter": "-------H-"
+      },
+      {
+        "count": 2,
+        "highlighter": "----VN-TT"
+      },
+      {
+        "count": 2,
+        "highlighter": "-------HT"
+      },
+      {
+        "count": 2,
+        "highlighter": "-------HH"
+      },
+      {
+        "count": 1,
+        "highlighter": "---K---RD"
+      },
+      {
+        "count": 1,
+        "highlighter": "-------NG"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 7,
+        "highlighter": "--D---DT-"
+      },
+      {
+        "count": 6,
+        "highlighter": "--DKH-DT-"
+      },
+      {
+        "count": 5,
+        "highlighter": "--DEH-DT-"
+      },
+      {
+        "count": 4,
+        "highlighter": "--D-H-DT-"
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "participantId": "00937",
+    "specimenId": "PH389",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 22,
+        "highlighter": "-T-----II"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 71,
+        "highlighter": "-----V-"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 43,
+        "highlighter": "-------"
+      },
+      {
+        "count": 28,
+        "highlighter": "------V"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 55,
+        "highlighter": "-----TT-TT-T--"
+      },
+      {
+        "count": 9,
+        "highlighter": "-----NT-TI-T--"
+      },
+      {
+        "count": 5,
+        "highlighter": "------T-TT-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----NT-TT----"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 68,
+        "highlighter": "------T-DM-D--R-"
+      },
+      {
+        "count": 1,
+        "highlighter": "K-----T-GM-D--R-"
+      },
+      {
+        "count": 1,
+        "highlighter": "K-----T-GM-D-LR-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-DT-D--R-"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 35,
+        "highlighter": "----RG-H-..------Y-TE----I--------"
+      },
+      {
+        "count": 23,
+        "highlighter": "----RG-H-..------Y-R-D---I--------"
+      },
+      {
+        "count": 10,
+        "highlighter": "-----G-H-..------Y-TE----I--------"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----G-H-..------Y-T-E---I--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----G-H-..------Y-TE---DI--------"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 71,
+        "highlighter": "---------------"
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 71,
+        "highlighter": "---L--V---------"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 61,
+        "highlighter": "---------"
+      },
+      {
+        "count": 10,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 67,
+        "highlighter": "--D------"
+      },
+      {
+        "count": 2,
+        "highlighter": "--D---DI-"
+      },
+      {
+        "count": 2,
+        "highlighter": "--D---N--"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "participantId": "01014",
+    "specimenId": "PH357",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 71,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "---N---"
+      },
+      {
+        "count": 12,
+        "highlighter": "----DT-"
+      },
+      {
+        "count": 5,
+        "highlighter": "-------"
+      },
+      {
+        "count": 4,
+        "highlighter": "--S-DT-"
+      },
+      {
+        "count": 1,
+        "highlighter": "--S----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ST-"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 39,
+        "highlighter": "-------"
+      },
+      {
+        "count": 2,
+        "highlighter": "----L--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----S--"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 15,
+        "highlighter": "----LQ-RTE-T--"
+      },
+      {
+        "count": 11,
+        "highlighter": "----Q.-STE-T--"
+      },
+      {
+        "count": 6,
+        "highlighter": "-----T-STE-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "----QK-KTE-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "----QQ-STE-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "----H.-STE-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----K.-STE-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----LP-RTE-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----LP-RTE----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----.-STE-T--"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 11,
+        "highlighter": "------T-DR-D-I--"
+      },
+      {
+        "count": 6,
+        "highlighter": "------T-N--D-IK-"
+      },
+      {
+        "count": 6,
+        "highlighter": "------T-N--D-I--"
+      },
+      {
+        "count": 5,
+        "highlighter": "I-----T-DR-D-I--"
+      },
+      {
+        "count": 5,
+        "highlighter": "------T-DM-D-IK-"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-G--DRIR-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-N--D-IRT"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-NM-D-IK-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-E--D-IRE"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-DL-D-IRE"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-N--D-IR-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-D--D-IR-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-D--D-I--"
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 12,
+        "highlighter": "-TI-RG---..---G--FA-N-M-.--HP-----"
+      },
+      {
+        "count": 6,
+        "highlighter": "-KKVRGL--..------FA-----.I--T-----"
+      },
+      {
+        "count": 4,
+        "highlighter": "-TI-RG---..-L----YAT-RR-E-S-T-----"
+      },
+      {
+        "count": 4,
+        "highlighter": "---S-G-H-..------YATER--DI---Y----"
+      },
+      {
+        "count": 4,
+        "highlighter": "---S-G-H-..------YATDQ---I---Y-T-N"
+      },
+      {
+        "count": 1,
+        "highlighter": "-KKVRGL--..------FA-----.T--T-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S-G-H-..------YATER--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..------FA-N-M-.--HP-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..-L----YAV-RK-D-SHP-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S-G-H-..------YATDQ---I---Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..-L----YAT-RR-E---T-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-KRVRGL--..------YA-----.I--T-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-KKV-GL--..------FA-----.T--T-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..---G--FALN-M-.L-HP-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..---G--FAMNRM-.--HP-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-TI-RG---..-L----YAV-RK-D-SYP-----"
+      },
+      {
+        "count": 1,
+        "highlighter": "---S-G-H-..------YATDQ---I---Y-T--"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 40,
+        "highlighter": "------N-----D--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------N--S--D--"
+      }
+    ]
+  },
+  {
+    "id": 317,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 14,
+        "highlighter": "-I----V---------"
+      },
+      {
+        "count": 10,
+        "highlighter": "-F-V--VLF---A---"
+      },
+      {
+        "count": 5,
+        "highlighter": "-I----VL--------"
+      },
+      {
+        "count": 5,
+        "highlighter": "---V--VL----A---"
+      },
+      {
+        "count": 3,
+        "highlighter": "---V--VLF---A---"
+      },
+      {
+        "count": 2,
+        "highlighter": "-I-V--VLF---A---"
+      },
+      {
+        "count": 1,
+        "highlighter": "--..-MV-----A---"
+      },
+      {
+        "count": 1,
+        "highlighter": "-L-V--VLF---A---"
+      },
+      {
+        "count": 1,
+        "highlighter": "-F-V--VIF---A---"
+      }
+    ]
+  },
+  {
+    "id": 318,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 42,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "--D---G--"
+      },
+      {
+        "count": 19,
+        "highlighter": "--D------"
+      }
+    ]
+  },
+  {
+    "id": 320,
+    "participantId": "01034",
+    "specimenId": "PH350",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 37,
+        "highlighter": "---------"
+      },
+      {
+        "count": 2,
+        "highlighter": "---I-----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-L-------"
+      },
+      {
+        "count": 1,
+        "highlighter": "---K-----"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-----TN"
+      },
+      {
+        "count": 1,
+        "highlighter": "------N"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "------L"
+      }
+    ]
+  },
+  {
+    "id": 323,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "-----K-TNN-T--"
+      }
+    ]
+  },
+  {
+    "id": 324,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "------T-VLKD-TM-"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-VLKD-T--"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "-------SL..----VYY-T-E--DI-K----LT"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-HL..---S--Y-T-E--DI-K----LT"
+      }
+    ]
+  },
+  {
+    "id": 326,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "------------D--"
+      }
+    ]
+  },
+  {
+    "id": 327,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 18,
+        "highlighter": "---L--V---------"
+      },
+      {
+        "count": 2,
+        "highlighter": "---L--M---------"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "----T----"
+      }
+    ]
+  },
+  {
+    "id": 329,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "--D---GI-"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "participantId": "01086",
+    "specimenId": "PH383",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "-------MI"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 35,
+        "highlighter": "-L-----"
+      }
+    ]
+  },
+  {
+    "id": 332,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 35,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 333,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "-----..--T-T--"
+      },
+      {
+        "count": 5,
+        "highlighter": "-----TAK-T-T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "----DTAK-T-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----TT--T-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----..-KT-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----TA--I-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----..--T----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----TA--T-T--"
+      }
+    ]
+  },
+  {
+    "id": 334,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 20,
+        "highlighter": "------T-GL-D-QKQ"
+      },
+      {
+        "count": 8,
+        "highlighter": "------T-GL-D-QKR"
+      },
+      {
+        "count": 6,
+        "highlighter": "------T-GL-D-QK-"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-GL-N-QKQ"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 34,
+        "highlighter": "----RS-P-..------YAT-E--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----RS-S-..------YAT-E--DI--------"
+      }
+    ]
+  },
+  {
+    "id": 336,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 26,
+        "highlighter": "------N-----D-S"
+      },
+      {
+        "count": 5,
+        "highlighter": "------N--D--D-S"
+      },
+      {
+        "count": 4,
+        "highlighter": "---N--N-----D-S"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 32,
+        "highlighter": "GLTL------------"
+      },
+      {
+        "count": 2,
+        "highlighter": "G-TL------------"
+      },
+      {
+        "count": 1,
+        "highlighter": "GITL------------"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 35,
+        "highlighter": "---------"
+      }
+    ]
+  },
+  {
+    "id": 339,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "--D---D--"
+      },
+      {
+        "count": 5,
+        "highlighter": "--G---D--"
+      },
+      {
+        "count": 3,
+        "highlighter": "--D---DF-"
+      },
+      {
+        "count": 2,
+        "highlighter": "--D---G--"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---N--"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---GF-"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "participantId": "01095",
+    "specimenId": "PH384",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 33,
+        "highlighter": "-A-------"
+      },
+      {
+        "count": 2,
+        "highlighter": "-T-------"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "Loop D",
+    "seqHighlighter": [
+      {
+        "count": 21,
+        "highlighter": "-------"
+      },
+      {
+        "count": 1,
+        "highlighter": "---N---"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----V-"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "bs loop",
+    "seqHighlighter": [
+      {
+        "count": 23,
+        "highlighter": "-------"
+      }
+    ]
+  },
+  {
+    "id": 343,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "V5 loop",
+    "seqHighlighter": [
+      {
+        "count": 6,
+        "highlighter": "----IT---A-T--"
+      },
+      {
+        "count": 5,
+        "highlighter": "----ITH-N.-T--"
+      },
+      {
+        "count": 3,
+        "highlighter": "----ITKEN.-T--"
+      },
+      {
+        "count": 2,
+        "highlighter": "----IT-ETY-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ITHEN.-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----IT-...-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----IT-ETY----"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ITDPT.-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----ITTQT.-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----IT-ET.-T--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----SD-KTT-V--"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "V2-apex",
+    "seqHighlighter": [
+      {
+        "count": 8,
+        "highlighter": "------N-N-KDRW--"
+      },
+      {
+        "count": 5,
+        "highlighter": "----------KDRY--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T-N-KDRW--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------T----D----"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T---ID----"
+      },
+      {
+        "count": 1,
+        "highlighter": "------T-G-KD-M--"
+      },
+      {
+        "count": 1,
+        "highlighter": "------P-N-NDRY--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----Y-P-N-KDRY-R"
+      },
+      {
+        "count": 1,
+        "highlighter": "R-----T---KDRW--"
+      },
+      {
+        "count": 1,
+        "highlighter": "----------KDRW--"
+      }
+    ]
+  },
+  {
+    "id": 345,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "V3-glycan",
+    "seqHighlighter": [
+      {
+        "count": 9,
+        "highlighter": "-----S-PM..-----LYAT-E--DI-H-Y--L-"
+      },
+      {
+        "count": 4,
+        "highlighter": "-----S-PM..-----LYAT-E--DI-H-Y----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-PM..-----MYAT-A--DI---Y----"
+      },
+      {
+        "count": 2,
+        "highlighter": "-----S-PM..------YAT-E--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-H-..------Y-T-E--DI------L-"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-P-..-----LYAT-E--DI-H-Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-HM..---G-IYAT-E---I---Y-TVN"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-PM..-----LYAT-E--DI---Y----"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-P-..------Y-T-E--DI--------"
+      },
+      {
+        "count": 1,
+        "highlighter": "-----S-PM..-----LYAT-E---I-H-Y----"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "Gp41-1",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "A--------S--D--"
+      },
+      {
+        "count": 2,
+        "highlighter": "A-----------D--"
+      },
+      {
+        "count": 2,
+        "highlighter": "------------D--"
+      },
+      {
+        "count": 1,
+        "highlighter": "A-----G--S--D--"
+      },
+      {
+        "count": 1,
+        "highlighter": "AF----------D--"
+      }
+    ]
+  },
+  {
+    "id": 347,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "Gp41-2",
+    "seqHighlighter": [
+      {
+        "count": 22,
+        "highlighter": "------V---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----------------"
+      }
+    ]
+  },
+  {
+    "id": 348,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "interface-1",
+    "seqHighlighter": [
+      {
+        "count": 19,
+        "highlighter": "----T----"
+      },
+      {
+        "count": 3,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "----I----"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "interface-2",
+    "seqHighlighter": [
+      {
+        "count": 17,
+        "highlighter": "--D---N--"
+      },
+      {
+        "count": 5,
+        "highlighter": "--D------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--D---H--"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "participantId": "10430",
+    "specimenId": "PH345",
+    "epitopeId": "interface-3",
+    "seqHighlighter": [
+      {
+        "count": 13,
+        "highlighter": "-L-------"
+      },
+      {
+        "count": 6,
+        "highlighter": "-V-------"
+      },
+      {
+        "count": 3,
+        "highlighter": "---------"
+      },
+      {
+        "count": 1,
+        "highlighter": "--------I"
+      }
+    ]
+  }
+]

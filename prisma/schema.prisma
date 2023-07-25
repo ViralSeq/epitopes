@@ -1,0 +1,84 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mongodb"
+  url      = env("DATABASE_URL")
+}
+
+generator erd {
+  provider = "prisma-erd-generator"
+}
+
+model Participant {
+  id                String          @id @default(auto()) @map("_id") @db.ObjectId
+
+  participantInfoId String
+  participantInfo   ParticipantInfo?
+  Sequencing        Sequencing[]
+}
+
+model ParticipantInfo {
+  id          String        @id @default(auto()) @map("_id") @db.ObjectId
+  yearOfBirth Int
+  regimen     String
+
+  Participant Participant  @relation(fields: [id], references: [id])
+}
+
+model Sequencing {
+  id String @id @default(auto()) @map("_id") @db.ObjectId
+  specimenId String
+
+  seqHighlighterId String @db.ObjectId
+  seqHighlighter SeqHighlighter @relation(fields: [seqHighlighterId], references: [id])
+
+  participant   Participant @relation(fields: [participantId], references: [id])
+  participantId String      @db.ObjectId
+
+  epitope   Epitope[]
+}
+
+model SeqHighlighter {
+  id          String       @id @default(auto()) @map("_id") @db.ObjectId
+  count       Int
+  highlighter String
+
+  Sequencing  Sequencing[]
+}
+
+model Epitope {
+  id         String @id @default(auto()) @map("_id") @db.ObjectId
+  epitopeId  String @unique
+  epitopeType String
+  region     String
+  startCodon Int
+  endCodon  Int
+  sequence   String
+
+  sequencingId String @db.ObjectId
+  sequencing        Sequencing  @relation(fields: [sequencingId], references: [id])
+  upperAnnotation   UpperAnnotation[]
+  lowerAnnotation   LowerAnnotation[]
+}
+
+model UpperAnnotation {
+  id       String    @id @default(auto()) @map("_id") @db.ObjectId
+  position Int
+  text     String
+
+  epitope Epitope @relation(fields: [id], references: [id])
+}
+
+model LowerAnnotation {
+  id            String    @id @default(auto()) @map("_id") @db.ObjectId
+  startPosition Int
+  endPosition  Int
+  text          String
+
+  epitope Epitope @relation(fields: [id], references: [id])
+}

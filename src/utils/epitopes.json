@@ -1,0 +1,269 @@
+[
+  {
+    "id": 1,
+    "epitopeId": "Loop D",
+    "epitopeType": "CD4-binding site",
+    "region": "env",
+    "startCodon": 276,
+    "endCodon": 282,
+    "sequence": "NFTDNAK",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 276
+      },
+      {
+        "position": 7,
+        "text": 282
+      },
+      {
+        "position": 5,
+        "text": 280
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 1,
+        "endPosition": 3,
+        "text": "PNGS"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "epitopeId": "bs loop",
+    "epitopeType": "CD4-binding site",
+    "region": "env",
+    "startCodon": 365,
+    "endCodon": 371,
+    "sequence": "SGGDPEI",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 365
+      },
+      {
+        "position": 4,
+        "text": 368
+      },
+      {
+        "position": 7,
+        "text": 371
+      }
+    ],
+    "lowerAnnotation": []
+  },
+  {
+    "id": 3,
+    "epitopeId": "V5 loop",
+    "epitopeType": "CD4-binding site",
+    "region": "env",
+    "startCodon": 456,
+    "endCodon": 469,
+    "sequence": "RDGGNSNNESEIFR",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 456
+      },
+      {
+        "position": 14,
+        "text": 369
+      }
+    ],
+    "lowerAnnotation": []
+  },
+  {
+    "id": 4,
+    "epitopeId": "V2-apex",
+    "epitopeType": "V2-apex",
+    "region": "env",
+    "startCodon": 156,
+    "endCodon": 171,
+    "sequence": "NCSFNISTSIRGKVQK",
+    "upperAnnotation": [
+      {
+        "position": 11,
+        "text": 166
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 1,
+        "endPosition": 3,
+        "text": "PNGS"
+      },
+      {
+        "startPosition": 5,
+        "endPosition": 7,
+        "text": "PNGS"
+      },
+      {
+        "startPosition": 13,
+        "endPosition": 16,
+        "text": "K-rich"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "epitopeId": "V3-glycan",
+    "epitopeType": "V3-glycan",
+    "region": "env",
+    "startCodon": 301,
+    "endCodon": 332,
+    "sequence": "NNTRKRIRIQRGPGRAFVTIGKIGNMRQAHCNIS",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 301
+      },
+      {
+        "position": 34,
+        "text": 333
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 1,
+        "endPosition": 3,
+        "text": "PNGS"
+      },
+      {
+        "startPosition": 32,
+        "endPosition": 34,
+        "text": "PNGS"
+      },
+      {
+        "startPosition": 23,
+        "endPosition": 26,
+        "text": "GDIR"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "epitopeId": "Gp41-1",
+    "epitopeType": "Gp41 MPER",
+    "region": "env",
+    "startCodon": 661,
+    "endCodon": 675,
+    "sequence": "ELDKWASLWNWFNIT",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 662
+      },
+      {
+        "position": 6,
+        "text": 667
+      },
+      {
+        "position": 10,
+        "text": 671
+      },
+      {
+        "position": 15,
+        "text": 676
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 1,
+        "endPosition": 6,
+        "text": "proximal"
+      },
+      {
+        "startPosition": 10,
+        "endPosition": 15,
+        "text": "distal"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "epitopeId": "Gp41-2",
+    "epitopeType": "Gp41 fusion peptide",
+    "region": "env",
+    "startCodon": 512,
+    "endCodon": 527,
+    "sequence": "AVGIGALFLGFLGAAG",
+    "upperAnnotation": [
+      {
+        "position": 1,
+        "text": 512
+      },
+      {
+        "position": 16,
+        "text": 527
+      }
+    ],
+    "lowerAnnotation": []
+  },
+  {
+    "id": 8,
+    "epitopeId": "interface-1",
+    "epitopeType": "Gp120-gp41 interface (gp41)",
+    "region": "env",
+    "startCodon": 608,
+    "endCodon": 616,
+    "sequence": "VPWNASWSN",
+    "upperAnnotation": [
+      {
+        "position": 4,
+        "site": 611
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 4,
+        "endPosition": 6,
+        "text": "PNGS"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "epitopeId": "interface-2",
+    "epitopeType": "Gp120-gp41 interface (gp41)",
+    "region": "env",
+    "startCodon": 634,
+    "endCodon": 642,
+    "sequence": "EINNYTSLI",
+    "upperAnnotation": [
+      {
+        "position": 4,
+        "site": 637
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 4,
+        "endPosition": 6,
+        "text": "PNGS"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "epitopeId": "interface-3",
+    "epitopeType": "Gp120-gp41 interface (gp120)",
+    "region": "env",
+    "startCodon": 445,
+    "endCodon": 453,
+    "sequence": "CSSNITGLL",
+    "upperAnnotation": [
+      {
+        "position": 4,
+        "text": 448
+      }
+    ],
+    "lowerAnnotation": [
+      {
+        "startPosition": 4,
+        "endPosition": 6,
+        "text": "PNGS"
+      }
+    ]
+  }
+]
