@@ -14,7 +14,7 @@ export default function QueryHeader() {
   const generateButtonDisabled = !participantIds.length || !epitopeIds.length;
 
   return (
-    <div className="grid grid-cols-3 justify-around items-center gap-4 rounded shadow p-4">
+    <div className="w-full grid md:grid-cols-3 justify-around items-center gap-4 rounded shadow p-4">
       <div className="shadow p-4">
         <div className="text-lg font-bolder underline mb-2">Participants</div>
         <div

@@ -157,7 +157,7 @@ export default function QueryContextProvider({
 
   useEffect(() => {
     setState((s) => ({ ...s, results: sortResults(s.results) }));
-  }, [sortResults]);
+  }, [state.sortResults]);
 
   const toggleSortResults = (sortResults: SortResults) =>
     setState((s) => ({
